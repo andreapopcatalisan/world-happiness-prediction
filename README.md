@@ -1,3 +1,3 @@
-# hapiness-report
+# World Happiness Prediction
 
-Code + Report: World Happiness Report
+Code + Report: World Happiness Prediction
