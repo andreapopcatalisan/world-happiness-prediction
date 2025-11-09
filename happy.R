@@ -1,6 +1,6 @@
 
 #======================World Happiness Prediction 2020===========================#
-#                           Andrea Pop-Catalisan                                  #
+#                           Andrea Pop-Catalisan                                 #
 
 rm(list = ls())
 library(tidyverse)
